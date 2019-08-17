@@ -39,7 +39,7 @@ local function normalize_recipe(r)
 		r.result_count = nil
 	end
 	for i, result in ipairs(r.results) do
-		if result.amount == nil then
+		if result.amount == nil and result.amount_min == nil then
 			r.results[i] = {name = result[1], amount = result[2]}
 		end
 	end
