@@ -1,6 +1,6 @@
 [submodule "FactorioLoaderLib"]
 	path = FactorioLoaderLib
-	url = https://github.com/KirkMcDonald/FactorioLoaderLib.git
+	url = https://github.com/stalepancakes/FactorioLoaderLib.git
 [submodule "factorio-web-calc"]
 	path = factorio-web-calc
-	url = https://github.com/KirkMcDonald/kirkmcdonald.github.io.git
+	url = https://github.com/stalepancakes/stalepancakes.github.io.git
